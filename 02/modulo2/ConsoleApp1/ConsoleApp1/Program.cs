@@ -6,7 +6,14 @@ namespace WiredBrainCoffeeSurveys.Reports
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            double responseRate = Q1Results.NumberResponded / Q1Results.NumberSurveyed; ;
+            double unanweredCount = Q1Results.NumberSurveyed - Q1Results.NumberResponded;
+
+            Console.WriteLine($"Response Percentage: {responseRate}");
+            Console.WriteLine($"Unanswered Surveys: {unanweredCount}");
+
+
+
         }
     }
 }
