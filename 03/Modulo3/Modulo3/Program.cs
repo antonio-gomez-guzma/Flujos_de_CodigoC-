@@ -6,15 +6,15 @@ namespace WiredBrainCoffeeSurveys.Reports
     {
         static void Main(string[] args)
         {
+            GenerateTasksReport();
+        }
 
+        public static void GenerateTasksReport()
+        {
             var tasks = new List<string>();
 
-            // Calculated Values
-            double responseRate = Q1Results.NumberResponded / Q1Results.NumberSurveyed;         
+            double responseRate = Q1Results.NumberResponded / Q1Results.NumberSurveyed;
             double overallScore = (Q1Results.ServiceScore + Q1Results.CoffeeScore + Q1Results.FoodScore + Q1Results.PriceScore) / 4;
-                    
-            // Logical comparisons
-            bool isCoffeeScoreLower = Q1Results.CoffeeScore < Q1Results.FoodScore;
 
             if (Q1Results.CoffeeScore < Q1Results.FoodScore)
             {
