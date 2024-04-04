@@ -1,0 +1,15 @@
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\bin\Debug\net8.0\Modulo5.exe
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\bin\Debug\net8.0\Modulo5.deps.json
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\bin\Debug\net8.0\Modulo5.runtimeconfig.json
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\bin\Debug\net8.0\Modulo5.dll
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\bin\Debug\net8.0\Modulo5.pdb
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\obj\Debug\net8.0\Modulo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\obj\Debug\net8.0\Modulo5.AssemblyInfoInputs.cache
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\obj\Debug\net8.0\Modulo5.AssemblyInfo.cs
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\obj\Debug\net8.0\Modulo5.csproj.CoreCompileInputs.cache
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\obj\Debug\net8.0\Modulo5.sourcelink.json
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\obj\Debug\net8.0\Modulo5.dll
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\obj\Debug\net8.0\refint\Modulo5.dll
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\obj\Debug\net8.0\Modulo5.pdb
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\obj\Debug\net8.0\Modulo5.genruntimeconfig.cache
+C:\Users\antonio.gomez.guzman\OneDrive - Avanade\Documents\Cursos\FlujosC#\05\Modulo5\Modulo5\obj\Debug\net8.0\ref\Modulo5.dll
